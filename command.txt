@@ -1,0 +1,7 @@
+python ./mnist_cifar/main.py --data mnist --model lenet300-100  --dense
+
+	
+python ./mnist_cifar/main.py --data cifar10 --model wrn-28-2  --dense
+
+
+python ./mnist_cifar/test.py

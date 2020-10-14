@@ -123,3 +123,7 @@ mnist_cifar/_dataset*
 data
 imagenet/partially_dense/runs*
 
+_dataset
+.vscode
+results
+None
